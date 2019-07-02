@@ -1,7 +1,7 @@
 '''
 Here is a java payload generator python2 script inspired by : 
 
-https://www.coalfire.com/The-Coalfire-Blog/Sept-2018/Exploiting-Blind-Java-Deserialization
+https://securitycafe.ro/2017/11/03/tricking-java-serialization-for-a-treat/
 
 You need to download ysoserial: https://github.com/pimps/ysoserial-modified and make sure the .jar is in the same directory
 
